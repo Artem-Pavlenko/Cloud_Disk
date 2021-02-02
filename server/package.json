@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "Artem PAvlenko",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
+    "config": "^3.3.3",
     "express": "^4.17.1",
     "mongoose": "^5.11.14"
   },
