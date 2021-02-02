@@ -1,3 +1,4 @@
 {
-  "post": 5000
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://admin:19942810@cloud.l3rgu.mongodb.net/cloud?retryWrites=true&w=majority"
 }
